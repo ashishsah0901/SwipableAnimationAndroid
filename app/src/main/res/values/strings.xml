@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SwipeAnimation</string>
+    <string name="background_image">Background Image</string>
+    <string name="first_heading_view">Step Up and Score</string>
+    <string name="first_description_view">Join the Race, Lane Up, and Embrace Health!</string>
+    <string name="second_heading_view">Claim the Throne</string>
+    <string name="trophy_descrption">Compete with your colleagues for Top Ranks</string>
+    <string name="third_heading_view">Score Big!!</string>
+    <string name="third_description_view">Victory Unlocks Spectacular Vouchers, Cashbacks, and Beyond</string>
+    <string name="action_button_text">Next</string>
+    <string name="button_text_final">"Let's Go"</string>
+    <string name="headline">Step-a-thon</string>
+</resources>

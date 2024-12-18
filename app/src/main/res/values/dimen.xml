@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_smallest">1dp</dimen>
+    <dimen name="spacing_small">2dp</dimen>
+    <dimen name="spacing_x_small">3dp</dimen>
+
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_l_medium">8dp</dimen>
+
+    <dimen name="radius_medium">10dp</dimen>
+    <dimen name="radius_large">16dp</dimen>
+
+    <dimen name="main_image_margin_top">70dp</dimen>
+    <dimen name="main_image_size">430dp</dimen>
+    <dimen name="small_image_size">80dp</dimen>
+</resources>
