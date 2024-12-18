@@ -3,4 +3,4 @@
 <img src="sample/Demo.gif" />
 
 
-## APK file at /sample/app-release.apk
+## APK file at <a href="/sample/app-release.apk"> APK File</a>
